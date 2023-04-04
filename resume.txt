@@ -1,0 +1,214 @@
+Joao Ananias 
+Portugal +35 19 62 97 81 61
+jflaviomacedo@outlook.com 
+
+Objective
+     •      Linux Administrator
+Skills 
+     •      Continuous integration and delivery, automation , tests, monitoring, systems administration. 
+     •      Support for systems development environments 
+     •      Administration of Linux and Unix servers. 
+     •      Virtual data center administration: VMware, Citrix Xen, Oracle Virtual Manager. 
+     •      DEVOPS - CI / CD, Docker, Elastic Search, Ansible, Puppet, Jenkins. 
+     •      Observability - Dynatrace, Zabbix, FlexVision, Grafana. 
+     •      Administration of Apache WebServer, Tomcat, Weblogic and JBOSS Administration 
+
+Qualifications 
+     •      Sysadmin Linux Administration
+     •      ITIL Service Lifecycle support 
+     •      Administration of Linux servers: Debian, RedHat and Suse Server. 
+     •      Capacity Planning 
+     •      Installation of packages and dependencies: compilation, apt, yum, zypper. 
+     •      Resource utilization analysis 
+     •      Selinux and file permission File sharing 
+     •      Risks, forecasts and measurement of improvements documentation and standardization 
+     •      Architecture and hierarchy of Filesystems Devices and Interfaces 
+     •      Risks, forecasts, and measurement of improvements 
+     •      Documentation and standardization 
+     •      Change Management Cycle 
+     •      Middleware Support 
+     •      Essential System Services TCP / IP Networks on Linux 
+     •      Squid Proxy, SquidGuard 
+     •      DNS, DHCP, FTP, SCP, SSH, 
+     •      HTTP, HTTPS Postfix, Sendmail, Q-mail 
+     •      Open LDAP and Samba 
+     •      Virtualization: Linux as Hypervisor: Citrix Xen, Shell 
+     •      Script: Script maintenance 
+     •      Continuous integration, continuous delivery and continuous deployment. 
+     •      Oracle Weblogic 8/10/12: Administration via Console and Cloud Control. 
+     •      Red Hat JBOSS AS7 - Application administration and monitoring 
+     •      Citrix Netscaler: Application Delivery Controller Support and Monitoring 
+     •      SAN & STORAGE support 
+     •      Data Protection: Hardware RAID, Software RAID 
+     •      RAID levels: Stripping, Parity, Nested RAID RAID: 0,1,3,4,5,6,50,60. 
+     •      Intelligent storage systems: Front-end, Cache, Back-end. 
+     •      Disk drive interface: IDE / ATA, SATA, iSCSI parallel. 
+     •      Backup environments administration Backup Compression, Deduplication and Retention
+     •      Assembly of jobs to store customer information Installing agents on Wintel / Unix servers. 
+     •      Backup to disk or tape 
+     •      Generation of snapshot for recording on tape. 
+     •      NAS implementation 
+     •      NAS storage protocols: CIFS, NFS. 
+     •      Zoning: Port zoning, WWN zoning, Mixed zoning Fabric management
+     •      EMC: Clariion, Symmetrix, VNX, VMAX, Unity and DataDomain 
+     •      Huawei: OceanStor and Dorado 
+     •      Netapp: Hybrid: FAS 2650/2620 ALL-Flash: AFF A300 / AFF A220 
+     •      DELL: MidRange: Compellent SC8000 Entry: Equallogic PS600 
+
+
+
+Languages 
+     •      Portuguese  
+     •      English C1 
+     •      French  A2 
+
+Education 
+     •      Technical Degree – Digital Games Technologist - Fatec 
+Certifications & Trainings 
+     •      LPI1 - Linux Professional Certificate: LPI000390714  
+     •      ITIL V3 Foundation Certified 4LINUX 
+     •      EMC Information Storage and Management (EMC certification) 
+     •      Linux Fundamentals
+     •      Sysadmin Linux 
+     •      Security Linux Admin
+     •      LPIC Preparation 
+     •      OpenStack Administrator 
+     •      JBOSS AS 7 Administration 
+     •      Ansible, Chef and Puppet   
+     •      Fundamentals of Red Hat Enterprise  
+     •      Introduction to Cloud Infrastructure 
+     •      OpenStack Administration 
+     •      DevOps Practices and Principles 
+     •      Weblogic for Beginners 
+     •      Weblogic 12C Administration 
+     •      Tomcat Support 
+     •      Fundamental of Webservices
+     •      Complete guide to ElasticSearch 
+     •      Managing logs with GrayLog 
+     •      Apache WebServer Administration 
+     •      Huawei Certified Network Administrator
+     •      Huawei Certified Network Professional 
+
+Projects Portfolio                          
+  Natixis (BPCE-IT)                                [dez 2021  | 1 year 4 months] 
+  Senior Application Support Engineer
+
+	 •      Effectively manage and solve production incidents.
+	 •      Follow-up and coordinate changes and technical operations
+	 •      Participate in change management (applications and infrastructure), which involves collaborating with different teams such as development, sysadmin, DBA and networking;
+	 •      Keep documentation up to date: document the components and operations of the applications (architecture, procedures, supervision need);
+	 •      Monitor applications and infrastructure in an effective way, compliant with the established SLA for all business lines;
+	 •      Control load capacity for the applications.
+	 •      Contribute consistently to the continuous automation and improvement of existing procedures.
+	 •      Work closely with the development teams on defining the architecture of new applications, according to the infrastructure standards.
+
+ T-Systems 		[out 2020 - jan 2023 | 2yr 4m] 
+ Linux Administrator	 
+
+	 •      Responsible for the migrating, implementing, maintaining, securing and tuning of Linux Systems
+	 •      Manage, coordinate, and implement software upgrades, patches, hot fixes on Linux Systems
+	 •      Maintain best practices on managing Linux Systems and services across all environments
+	 •      Fault finding, analysis and of logging information for reporting of performance exceptions
+	 •      Participate in the implementation of monitoring and capacity management on Linux Systems
+	 •      Create and modify system scripts or applications to perform tasks
+	 •      Provide input on ways to improve the stability, security, efficiency, and scalability of the environments
+	 •      Collaborate with other teams and team members to develop automation strategies and deployment processes
+	 •      Developing and overseeing the backup, replication, clustering, and failover strategies
+	 •      Provide application support on the Linux Systems context in specific cases, as necessary
+	 •      Perform Incident troubleshooting and resolution to ensure availability and stability of enterprise Linux Systems
+	 •      Perform Service Requests and executes standard Changes with minimal supervision
+	 •      Proactively ensure knowledge sharing within the team
+ 
+ Lumen		                        [ago 2020 - fev 2022 | 1yr 7m]
+ Linux Administrator
+
+	 •      Administration of Linux systems, Storage, Backup, and application software in support of research needs.
+ •      Provide consulting in the selection and purchase of hardware and software systems.
+                     •      Provide configuration management utilizing Puppet and/or Ansible.
+     	 •      Ensure the secure and effective operation of computing systems through compliance
+	 •      Troubleshoot system problems quickly and effectively.
+	 •      Work with other systems engineers and vendors to resolve hardware and software issues.
+	 •      Answer escalated user tickets in addition to primary project work.
+	 •      Develop and document procedures for startup, execution, shutdown, backup, and recovery.
+	 •      Install and configure software, both commercial packages and various open-source packages.
+                     •      Maintain documentation/notes on software builds and installs.
+                     •      Support data storage systems and backup services. 
+	 •      Assist users with use of computing systems.
+	 •      Promote operational efficiency and reliability through automation.
+
+ Certsys                                            [jan 2020 - jan 2022 | 2yr 1m] 
+ Linux Administrator
+ 
+	 •      Manage, track, report, process and assign support tickets or change requests daily.
+	 •      Attend change, problem management, AAR and other review boards as required.
+	 •      Monitors system health and configurations in order to ensure system health and functionality as well as remediate problems/issues in a timely manner.
+	 •      Monitor incident trends and coordinate process improvement proactive resolution processes.
+	 •      Develop, implement and enforce process and incident response.
+	 •      Install applications and perform system upgrades & migrations.
+	 •      Familiarity and practical application of advanced principles of ITIL/ITSM.
+	 •      Ability to present to executive management incident debriefs and root cause analysis reports.
+
+ FIS 		 	[jan 2020 - ago 2021 | 1yr 8m] 
+ Linux Administrator
+
+	 •      Administration and support of virtualized environments in vmware and oracle ovm manager.
+	 •      Responsible for the administration of Linux environments.
+	 •      ITSM Lifecycle
+
+Cadmus 			[jul 2019 - jan 2020 | 8m] 
+ Linux Administrator
+ 
+	 •      Manage, track, report, process and assign support tickets or change requests daily.
+	 •      Attend change, problem management, AAR and other review boards as required.
+	 •      Monitors system health as well as remediate problems/issues in a timely manner.
+	 •      Monitor incident trends and coordinate process improvement proactive resolution processes.
+	 •      Develop, implement and enforce process and incident response.
+	 •      Install applications and perform system upgrades & migrations.
+	 •      Familiarity and practical application of advanced principles of ITIL/ITSM.
+	 •      Ability to present to executive management incident debriefs and root cause analysis reports.
+
+Tech Mahindra                                      [dez 2017 - abr 2019 | 1yr 4m] 
+ Linux Administrator 
+
+      •      Clients: GRU Airport, Invepar, Transpetro, Sky, Basf. 
+      •      Performance in environments based on 
+      •      Support for systems development environments 
+      •      Administration of Linux and Unix servers. 
+      •      Administration and support of Apache WebServer 
+      •      Administration and support of Tomcat, Weblogic and JBOSS 
+      •      Backup tools administration and support 
+
+Microware                                           [jan 2017 - dez 2017 | 1yr] 
+ IT Infrastructure Consultant 
+
+      •      Administration of Linux and Unix servers. 
+      •      Apache WebServer administration and support. 
+      •      Tomcat, Weblogic and JBOSS administration and support. 
+
+ 
+Cadmus                                              [jan 2014 - jan 2017 | 3yr] 
+ Infrastructure Analyst 
+
+      •      Administration of Linux and Unix servers. 
+      •      Administration and support of Apache WebServer 
+      •      Administration and support of Tomcat, Weblogic and JBOSS
+	  
+IT2B 			  [jan 2012 - jan 2014 | 2yr]
+Infrastructure Analyst 								
+ 
+      •      Administration of Linux Servers. 
+
+ Perto Automation		[ago 2009 - jan 2012 | 2yr]	
+ Infrastructure Analyst 							 
+ 
+      •      Administration of Infrastructure and HelpDesk. 
+ 
+Nike 			[jan 2007 - jan 2009 | 2yr]	
+ Infrastructure Analyst 							
+ 
+      •      Administration of Infrastructure and HelpDesk. 
+
+ DIVEO			[ago 2005 - mar 2007 | 1yr 7m]	
+ Datacenter Operator                                 
+ 
+      •      Administration of Datacenter Environments.
